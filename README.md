@@ -1,1 +1,1 @@
- Seedufy Web Application for online plant store
+ Seedify Web Application for online plant store
